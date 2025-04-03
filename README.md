@@ -1,5 +1,3 @@
-# OneDrive Video link
-  https://setuo365-my.sharepoint.com/:v:/g/personal/c00313480_setu_ie/EXy6I8_dDYlGmZmQDYHTGMwBF-XyzpkpfSnnxuUw_YFtxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hA4C4m
 
 # Hadoop and Spark Setup with Snowflake Integration
 
